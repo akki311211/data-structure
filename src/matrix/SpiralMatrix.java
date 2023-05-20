@@ -1,4 +1,4 @@
-package array;
+package matrix;
 
 public class SpiralMatrix {
     public static void main(String[] args) {

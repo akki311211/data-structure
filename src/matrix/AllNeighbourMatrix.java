@@ -1,4 +1,4 @@
-package array;
+package matrix;
 
 public class AllNeighbourMatrix {
     public static void main(String[] args) {
